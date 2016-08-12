@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alarm2.0</string>
+
+    <string name="nlp_extra">nlp</string>
+    <string name="nlp_data">data</string>
+    <string name="domain">com.rokid.alarm1</string>
+    <string name="tts_nlp_error">抱歉，我不明白你说什么</string>
+    <string name="tts_no_time">不告诉我时间，我怎么给你设置闹钟呢</string>
+    <string name="tts_no_time_delete">不告诉我时间，我怎么给你取消闹钟呢</string>
+    <string name="tts_no_time_search">不告诉我时间，我怎么帮你查呢</string>
+    <string name="tts_no_time_update">不告诉我时间，我怎么帮你改闹钟</string>
+    <string name="tts_error_time_delete">没有设置这个闹钟哦</string>
+    <string name="tts_update_succeed">闹钟修改成功</string>
+    <string name="tts_search_succeed">这个时间点有闹钟哦</string>
+    <string name="tts_search_Failure">这个时间点没有闹钟哦</string>
+    <string name="tts_add_alarm">闹钟设置成功</string>
+    <string name="tts_cancel_alarm">取消闹钟成功</string>
+    <string name="tts_no_add">你没有设置闹钟哦</string>
+    <string name="tts_error_time">我现在还不能穿梭时空，回到过去</string>
+    <string name="music_service">com.rokid.alarm1.MusicService</string>
+    <string name="alarm_receiver">com.rokid.alarm1.AlarmReceiver</string>
+    <string name="boot_completed">android.intent.action.BOOT_COMPLETED</string>
+</resources>

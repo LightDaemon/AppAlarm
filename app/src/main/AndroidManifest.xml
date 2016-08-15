@@ -51,7 +51,6 @@
                 <action android:name="com.rokid.alarm1.AlarmReceiver" />
             </intent-filter>
         </receiver>
-
     </application>
 
 </manifest>
